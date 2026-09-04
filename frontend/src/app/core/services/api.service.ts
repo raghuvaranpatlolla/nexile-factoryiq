@@ -10,7 +10,7 @@ import {
   providedIn: 'root'
 })
 export class ApiService {
-  private baseUrl = 'http://localhost:8000/api/v1';
+  private baseUrl = 'https://nexile-factoryiq.onrender.com/api/v1';
 
   constructor(private http: HttpClient) {}
 
