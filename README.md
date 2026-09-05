@@ -1,4 +1,8 @@
-# Nexile – FactoryIQ (Manufacturing Excellence Portal)
+# NEXILE – FactoryIQ Manufacturing Excellence Portal
+
+🚀 **Live Demo:** https://nexile-factoryiq-1.onrender.com
+
+📂 **GitHub:** https://github.com/raghuvaranpatlolla/nexile-factoryiq
 
 > **Enterprise Full-Stack Manufacturing Platform** connecting R&D, NPI, Project Tracking, Shop Floor Production, Quality Management, Compliance, Supply Chain, Logistics, After-Sales Service, and Executive Analytics.
 
