@@ -3,6 +3,9 @@
 🚀 **Live Demo:** https://nexile-factoryiq-1.onrender.com
 
 📂 **GitHub:** https://github.com/raghuvaranpatlolla/nexile-factoryiq
+## 📄 Project Documentation
+
+View Detailed Project Documentation (PDF): https://drive.google.com/file/d/1Gc1Da_O3c_eqVho52kZdxEMZaXnQi26A/view?usp=sharing
 
 > **Enterprise Full-Stack Manufacturing Platform** connecting R&D, NPI, Project Tracking, Shop Floor Production, Quality Management, Compliance, Supply Chain, Logistics, After-Sales Service, and Executive Analytics.
 
